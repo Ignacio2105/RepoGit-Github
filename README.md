@@ -10,4 +10,4 @@ Cambios desde mi rama local llamada developer01
 
 Cambio desde editor web
 
-Para hacer un cambio se ubica en el repositorio y se coloca "."
+Para hacer un cambio se ubica en el repositorio y se coloca <kbd>.</kbd>
